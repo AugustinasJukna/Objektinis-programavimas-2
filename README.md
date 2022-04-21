@@ -1,3 +1,2 @@
 # Objektinis programavimas 2
-Studijų modulio "Objektinis programavimas 2" laboratoriniai darbai.
- 
+ Universiteto modulio "Objektinis programavimas 2" laboratoriniai darbai (2021 m. pavasario semestras)
