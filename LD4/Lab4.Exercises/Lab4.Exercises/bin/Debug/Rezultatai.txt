@@ -1,0 +1,34 @@
+Pradinis sąršas
+----------------------------------------------------------
+ Pavadinimas Tipas Kaina Kiekis 
+----------------------------------------------------------
+ Duona            maisto               92.00    100
+ Sviestas         maisto               242.00    200
+ Bulvės           daržovės             27.00    200
+ Kopūstai         daržovės             109.00    300
+ Morkos           daržovės             88.00    150
+ Burokai          daržovės             88.00    120
+----------------------------------------------------------
+
+Suformuotas sąrašas
+----------------------------------------------------------
+ Pavadinimas Tipas Kaina Kiekis 
+----------------------------------------------------------
+ Bulvės           daržovės             27.00    200
+ Kopūstai         daržovės             109.00    300
+ Morkos           daržovės             88.00    150
+ Burokai          daržovės             88.00    120
+----------------------------------------------------------
+
+Rikiuotas suformuotas sąrašas
+----------------------------------------------------------
+ Pavadinimas Tipas Kaina Kiekis 
+----------------------------------------------------------
+ Kopūstai         daržovės             109.00    300
+ Burokai          daržovės             88.00    120
+ Morkos           daržovės             88.00    150
+ Bulvės           daržovės             27.00    200
+----------------------------------------------------------
+
+Kiekio vidurkis = 192.50
+Naujo sąrašo prekių visa suma = 61860.00

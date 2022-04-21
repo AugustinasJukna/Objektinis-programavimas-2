@@ -1,0 +1,12 @@
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD4/LAB4_ConsoleApp/LAB4_ConsoleApp/obj/Debug/LAB4_ConsoleApp.csprojAssemblyReference.cache
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD4/LAB4_ConsoleApp/LAB4_ConsoleApp/obj/Debug/LAB4_ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD4/LAB4_ConsoleApp/LAB4_ConsoleApp/bin/Debug/LAB4_ConsoleApp.exe
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD4/LAB4_ConsoleApp/LAB4_ConsoleApp/bin/Debug/LAB4_ConsoleApp.pdb
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD4/LAB4_ConsoleApp/LAB4_ConsoleApp/obj/Debug/LAB4_ConsoleApp.exe
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD4/LAB4_ConsoleApp/LAB4_ConsoleApp/obj/Debug/LAB4_ConsoleApp.pdb
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD4\LAB4_ConsoleApp\LAB4_ConsoleApp\obj\Debug\LAB4_ConsoleApp.csprojAssemblyReference.cache
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD4\LAB4_ConsoleApp\LAB4_ConsoleApp\obj\Debug\LAB4_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD4\LAB4_ConsoleApp\LAB4_ConsoleApp\obj\Debug\LAB4_ConsoleApp.exe
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD4\LAB4_ConsoleApp\LAB4_ConsoleApp\obj\Debug\LAB4_ConsoleApp.pdb
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD4\LAB4_ConsoleApp\LAB4_ConsoleApp\bin\Debug\LAB4_ConsoleApp.exe
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD4\LAB4_ConsoleApp\LAB4_ConsoleApp\bin\Debug\LAB4_ConsoleApp.pdb

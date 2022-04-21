@@ -1,0 +1,12 @@
+Pradiniai duomenys
+n = 5
+*+-+-
++*---
+--*+-
++-+*+
+---+*
+Viršūnė: Geluonis   | Numeris: 2
+Viršūnė: Uodega     | Numeris: 1
+Viršūnė: Liemuo     | Numeris: 4
+Viršūnė: 1 koja     | Numeris: 3
+Viršūnė: 2 koja     | Numeris: 5

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F03C9A9A-DAD7-4BCC-84CC-B57CE29F64AF}|">
+  <MonoDevelop.Ide.ItemProperties.LD2__WebApp PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LD2_WebApp/MainForm.aspx.cs">
+    <Files>
+      <File FileName="LD2_WebApp/MainForm.aspx.cs" Line="207" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LD2_WebApp" expanded="True">
+            <Node name="LD2_WebApp" expanded="True">
+              <Node name="MainForm.aspx" expanded="True">
+                <Node name="MainForm.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="LD2_WebAppTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

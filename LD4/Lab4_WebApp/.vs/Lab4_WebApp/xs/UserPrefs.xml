@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{3050DC68-0709-46F6-86F7-696763F13898}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4_WebApp/MainForm.aspx.cs">
+    <Files>
+      <File FileName="Lab4_WebApp/MainForm.aspx.cs" Line="21" Column="42" />
+      <File FileName="Lab4_WebApp/LinkList.cs" Line="180" Column="10" />
+      <File FileName="Lab4_WebApp/InOutUtils.cs" Line="73" Column="22" />
+      <File FileName="Lab4_WebApp/WebUtils.cs" />
+      <File FileName="Lab4_WebApp/MainForm.aspx" Line="14" Column="8" />
+      <File FileName="Lab4_WebApp/MainForm.aspx.designer.cs" />
+      <File FileName="Lab4_WebApp/Location.cs" Line="20" Column="46" />
+      <File FileName="Lab4_WebApp/Museum.cs" Line="74" Column="25" />
+      <File FileName="Lab4_WebApp/IParsable.cs" Line="1" Column="1" />
+      <File FileName="Lab4_WebApp/Statue.cs" Line="59" Column="25" />
+      <File FileName="Lab4_WebApp/FileData.cs" Line="1" Column="1" />
+      <File FileName="Lab4_WebApp/TaskUtils.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab4_WebApp" expanded="True">
+            <Node name="Lab4_WebApp" expanded="True">
+              <Node name="MainForm.aspx" expanded="True">
+                <Node name="MainForm.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab4__WebApp PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>

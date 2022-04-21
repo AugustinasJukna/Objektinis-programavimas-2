@@ -1,0 +1,34 @@
+Pradiniai duomenys
+|Pirmas miestas      |Antras miestas      |       Atstumas|
+|Kaunas              |Vilnius             |            110|
+|Kaunas              |Panevėžys           |            108|
+|Kaunas              |Klaipėda            |            214|
+|Kaunas              |Švenčionys          |            182|
+|Kaunas              |Kėdainiai           |             56|
+|Vilnius             |Klaipėda            |            286|
+|Marijampolė         |Klaipėda            |            286|
+|Šiauliai            |Plungė              |            102|
+
+|Miesto pavadinimas  |    Gyventojų kiekis|
+|Kaunas              |              295269|
+|Vilnius             |              544386|
+|Panevėžys           |               85885|
+|Klaipėda            |              152818|
+|Kėdainiai           |               22677|
+|Švenčionys          |                4065|
+|Marijampolė         |               34975|
+|Šiauliai            |              101511|
+|Plungė              |               23246|
+
+Rezultatai
+|Pirmas miestas      |Antras miestas      |       Atstumas|
+|Kaunas              |Panevėžys           |            108|
+|Kaunas              |Vilnius             |            110|
+|Kaunas              |Švenčionys          |            182|
+|Kaunas              |Klaipėda            |            214|
+|Vilnius             |Klaipėda            |            286|
+
+Rezultatai (po panaikinimo)
+|Pirmas miestas      |Antras miestas      |       Atstumas|
+|Vilnius             |Klaipėda            |            286|
+

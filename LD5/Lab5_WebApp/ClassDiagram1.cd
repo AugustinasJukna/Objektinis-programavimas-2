@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab5_WebApp.CustomException">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_WebApp.ErrorCheck">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ErrorCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_WebApp.InOutUtils">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAgAAAQAAAAAAAAAAgAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_WebApp.MainForm">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAgAAAAAAAAAEAAADgQIAAQcAABAAAAAAIAAgA=</HashCode>
+      <FileName>MainForm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_WebApp.MonthsDictionary">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MonthsDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_WebApp.Publication" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAgEAkAAAAQAAAAQAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publication.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab5_WebApp.Subscription">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAgAAAA=</HashCode>
+      <FileName>Subscription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_WebApp.TaskUtils">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAIAAAQIAAAAAAAAAA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_WebApp.User" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACwCAAiEAEAAAAAABAAQAQADAAAAAIAAQAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab5_WebApp.WebUtils">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAQAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>WebUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab5_WebApp.IParsable">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IParsable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab5_WebApp.IResults">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAQAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>IResults.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

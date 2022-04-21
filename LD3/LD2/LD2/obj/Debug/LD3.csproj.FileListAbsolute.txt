@@ -1,0 +1,14 @@
+D:/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/obj/Debug/LD3.csprojAssemblyReference.cache
+D:/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/obj/Debug/LD3.csproj.CoreCompileInputs.cache
+D:/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/obj/Debug/LD2.exe
+D:/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/obj/Debug/LD2.pdb
+D:/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/bin/Debug/LD2.exe.config
+D:/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/bin/Debug/LD2.exe
+D:/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/bin/Debug/LD2.pdb
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/bin/Debug/LD2.exe.config
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/bin/Debug/LD2.exe
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/bin/Debug/LD2.pdb
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/obj/Debug/LD3.csprojAssemblyReference.cache
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/obj/Debug/LD3.csproj.CoreCompileInputs.cache
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/obj/Debug/LD2.exe
+/Users/augustinas/OneDrive - Kaunas University of Technology/Objektinis programavimas/LD3/LD2/LD2/obj/Debug/LD2.pdb

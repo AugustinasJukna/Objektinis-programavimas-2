@@ -1,0 +1,2 @@
+1234;Mokslas;10
+4316;Cunamis;11

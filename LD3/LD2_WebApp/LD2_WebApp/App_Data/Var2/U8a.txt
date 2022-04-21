@@ -1,0 +1,3 @@
+Vilnius;Klaipėda;286
+Marijampolė;Klaipėda;286
+Šiauliai;Plungė;102

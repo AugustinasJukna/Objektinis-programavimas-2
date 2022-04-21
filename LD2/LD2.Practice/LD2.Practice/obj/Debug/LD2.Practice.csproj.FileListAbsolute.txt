@@ -1,0 +1,7 @@
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD2\LD2.Practice\LD2.Practice\bin\Debug\LD2.Practice.exe.config
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD2\LD2.Practice\LD2.Practice\bin\Debug\LD2.Practice.exe
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD2\LD2.Practice\LD2.Practice\bin\Debug\LD2.Practice.pdb
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD2\LD2.Practice\LD2.Practice\obj\Debug\LD2.Practice.csprojAssemblyReference.cache
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD2\LD2.Practice\LD2.Practice\obj\Debug\LD2.Practice.csproj.CoreCompileInputs.cache
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD2\LD2.Practice\LD2.Practice\obj\Debug\LD2.Practice.exe
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD2\LD2.Practice\LD2.Practice\obj\Debug\LD2.Practice.pdb

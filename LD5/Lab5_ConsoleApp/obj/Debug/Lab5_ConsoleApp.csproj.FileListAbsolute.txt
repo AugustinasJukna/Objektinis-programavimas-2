@@ -1,0 +1,7 @@
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD5\Lab5_ConsoleApp\bin\Debug\Lab5_ConsoleApp.exe.config
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD5\Lab5_ConsoleApp\bin\Debug\Lab5_ConsoleApp.exe
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD5\Lab5_ConsoleApp\bin\Debug\Lab5_ConsoleApp.pdb
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD5\Lab5_ConsoleApp\obj\Debug\Lab5_ConsoleApp.csprojAssemblyReference.cache
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD5\Lab5_ConsoleApp\obj\Debug\Lab5_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD5\Lab5_ConsoleApp\obj\Debug\Lab5_ConsoleApp.exe
+D:\OneDrive - Kaunas University of Technology\Objektinis programavimas\LD5\Lab5_ConsoleApp\obj\Debug\Lab5_ConsoleApp.pdb

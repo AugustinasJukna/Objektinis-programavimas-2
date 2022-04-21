@@ -1,0 +1,4 @@
+2018-02-31
+Muskas;Kosmoso g. X;6;1;1111;100
+Gatesas;Lango g. 10;12;2;1111;56
+Jobsas;Obuolio g. 12;1;10;9658;10

@@ -1,0 +1,173 @@
+LinkListTests.cs
+
+using System;
+using Xunit;
+using LD_3;
+using System.Security.Cryptography;
+using System.Linq;
+using System.Collections;
+
+namespace LD_2_UnitTests
+{
+    public abstract class LinkListTests<T> where T : IComparable<T>
+    {
+        public abstract T CreateSampleValue();
+        public abstract T CreateSampleValueNull();
+        public abstract T CreateSampleDifferentValue();
+        public abstract LinkList<T> CreateSampleList();
+        public abstract LinkList<T> CreateSampleNullList();
+        [Fact]
+        public void LinkList_CreatedLinkList_HeadAndCurrentNodesShouldBeNull()
+        {
+            bool expected = false;
+            LinkList<T> myList = CreateSampleNullList();
+            myList.Start();
+            bool actual = myList.Is();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void AddToBeginning_DataNode_ShouldBeHead()
+        {
+            T expected = CreateSampleValue();
+            LinkList<T> myLinkedList = CreateSampleList();
+
+            myLinkedList.AddToBeginning(expected);
+
+            myLinkedList.Start();
+            T actual = myLinkedList.Get();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void Is_CheckEmptyCurrentNode_False()
+        {
+            bool expected = false;
+            LinkList<T> myList = CreateSampleNullList();
+            bool actual = myList.Is();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void Exist_CheckEmptyHeadNode_False()
+        {
+            bool expected = false;
+            LinkList<T> myList = CreateSampleNullList();
+            bool actual = myList.Exist();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void Is_CheckCurrentNodeWithValue_True()
+        {
+            bool expected = true;
+            LinkList<T> myList = CreateSampleNullList();
+            T value = CreateSampleValue();
+            myList.AddToBeginning(value);
+            myList.Start();
+            bool actual = myList.Is();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void Exist_CheckHeadNodeWithValue_True()
+        {
+            bool expected = true;
+            LinkList<T> myList = CreateSampleNullList();
+            T value = CreateSampleValue();
+            myList.AddToBeginning(value);
+            bool actual = myList.Exist();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void Get_ReturnedCorrectValue_True()
+        {
+            T expected = CreateSampleValue();
+            LinkList<T> myList = CreateSampleList();
+            T value = CreateSampleValue();
+            myList.AddToBeginning(value);
+            myList.Start();
+            T actual = myList.Get();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void InsertAt_TryInsertNullValue_HeadNull()
+        {
+            bool expected = false;
+            LinkList<T> myList = CreateSampleNullList();
+            T nullvalue = CreateSampleValueNull();
+            myList.InsertAt(nullvalue, 0);
+            bool actual = myList.Exist();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void InsertAt_TryInsertValueBeforeHead_NextNodeShouldBeHead()
+        {
+            T expected = CreateSampleDifferentValue();
+            LinkList<T> myList = CreateSampleNullList();
+            myList.AddToBeginning(expected);
+            myList.InsertAt(CreateSampleValue(), 0);
+            myList.Start();
+            myList.Next();
+            T actual = myList.Get();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void InsertAt_InsertValueAtPosition_InsertedValueNextNodeShouldBePreviousNode()
+        {
+            T expected = CreateSampleValue();
+            LinkList<T> myList = CreateSampleNullList();
+            myList.AddToBeginning(expected);
+            myList.AddToBeginning(CreateSampleDifferentValue());
+            myList.InsertAt(CreateSampleDifferentValue(), 1);
+            myList.Start();
+            myList.Next();
+            myList.Next();
+            T actual = myList.Get();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void InsertAt_InsertValueAtTheEndOfLinkedList_LastNodeShouldBeNewValueNode()
+        {
+            T expected = CreateSampleValue();
+            LinkList<T> myList = CreateSampleList();
+            int count = myList.Count();
+            myList.InsertAt(expected, count);
+            T actual = myList.Last();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void InsertAt_InsertValueWhenIndexIsBiggerThanListSize_LastNodeShouldNotChange()
+        {
+            LinkList<T> myList = CreateSampleList();
+            T expected = myList.Last();
+            myList.InsertAt(CreateSampleValue(), myList.Count() + 3);
+            T actual = myList.Last();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void AddToEnd_AddedValueWhenHeadIsNull_ShouldBecomeHead()
+        {
+            T expected = CreateSampleValue();
+            LinkList<T> myList = CreateSampleNullList();
+            myList.AddToEnd(expected);
+            myList.Start();
+            T actual = myList.Get();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void AddToEnd_AddedValue_ShouldBeLastNode()
+        {
+            T expected = CreateSampleValue();
+            LinkList<T> myList = CreateSampleList();
+            myList.AddToEnd(expected);
+            T actual = myList.Last();
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void Delete_WhenListDeletes_CurrentAndHeadNodesShouldBecomeNull()
+        {
+            bool expected = false;
+            LinkList<T> myList = CreateSampleList();
+            myList.Delete();
+            myList.Start();
+            bool actual = myList.Is();
+            Assert.Equal(expected, actual);
+        }        
+    }
+}

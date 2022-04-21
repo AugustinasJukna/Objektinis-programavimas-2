@@ -1,0 +1,4 @@
+2014-06-23
+Pavardenis;Adresavičiaus g. 2;6;9;1221;10
+Jukna;Panevėžio g. 111;7;3;1221;20
+Juknaitė;Vilniaus g. 15;9;2;9658;22

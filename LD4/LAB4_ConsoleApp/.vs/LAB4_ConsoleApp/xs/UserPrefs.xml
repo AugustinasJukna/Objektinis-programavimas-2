@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{DDF23490-957A-4370-9C6F-EF7272535A61}|Default">
+  <MonoDevelop.Ide.ItemProperties.LAB4__ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LAB4_ConsoleApp/InOutUtils.cs">
+    <Files>
+      <File FileName="LAB4_ConsoleApp/Program.cs" Line="10" Column="39" />
+      <File FileName="LAB4_ConsoleApp/bin/Debug/Duomenys.txt" Line="5" Column="34" />
+      <File FileName="LAB4_ConsoleApp/Location.cs" Line="12" Column="103" />
+      <File FileName="LAB4_ConsoleApp/Museum.cs" Line="45" Column="63" />
+      <File FileName="LAB4_ConsoleApp/Statue.cs" Line="23" Column="46" />
+      <File FileName="LAB4_ConsoleApp/LinkList.cs" Line="33" Column="10" />
+      <File FileName="LAB4_ConsoleApp/bin/Debug/Statulos.txt" Line="4" Column="62" />
+      <File FileName="LAB4_ConsoleApp/InOutUtils.cs" Line="14" Column="51" />
+      <File FileName="LAB4_ConsoleApp/IParsable.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LAB4_ConsoleApp" expanded="True">
+            <Node name="LAB4_ConsoleApp" expanded="True">
+              <Node name="bin" expanded="True">
+                <Node name="Debug" expanded="True" />
+              </Node>
+              <Node name="InOutUtils.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

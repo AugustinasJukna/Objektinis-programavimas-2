@@ -1,0 +1,6 @@
+2021-10-15
+Agrastas;Gynelės g.;4;2;1234;5
+Nakamoto;Bitkoino g. 10;3;3;4316;100
+Ateivis;Vilniaus g.;7;3;4316;10
+Bučorius;A;4;2;1234;5
+A;A;4;2;1234;5

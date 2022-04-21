@@ -1,0 +1,8 @@
+﻿Kaunas
+Džėjus Getsbis
+Kaunas;Donelaičio g. 2;1955;Vardas Pavardė;Janui Libinijui
+Prezidentas;Kauno g. 6;1955;Vardas2 Pavardė2;Jonui Kazlovijui
+Ponas;Kauno g. 22;2013;D;Janui Kazlovijui
+A;Statulos g. 5;2015;A;Vardeniui Pavardeniui
+D;Statulos g. 10;2014;B;Vardeniui2 Pavardeniui2
+Super Laisvės muziejus;Panevėžio al. 22;2012;Kultūrinis;1 0 1 0 1 1 1;1;8

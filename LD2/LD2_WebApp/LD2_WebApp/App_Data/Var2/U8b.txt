@@ -1,0 +1,5 @@
+Vilnius;100000
+Klaipėda;1552233
+Marijampolė;15522
+Šiauliai;1545452
+Plungė;155222

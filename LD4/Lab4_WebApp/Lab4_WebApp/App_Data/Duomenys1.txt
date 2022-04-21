@@ -1,0 +1,5 @@
+Kaunas
+Ponas Vardenis
+Laisvės muziejus2;Laisvės al. 10;1925;Istorinis;1 1 1 1 0 0 0;0;10
+Lietaus muziejus;Kauno al. 3;1985;Kultūrinis;1 1 0 1 0 0 1;1;25
+A;Statulos g. 5;2016;A;Vardeniui Pavardeniui

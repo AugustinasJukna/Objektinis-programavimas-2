@@ -1,0 +1,6 @@
+2021-04-02
+Jukna;Gynelės g.;4;2;1234;5
+Lebronas;Vilniaus g.;7;3;4316;10
+A;A;4;2;1234;5
+Pavardenis;Panevėžio g.;10;4;5522;20
+Testavimas;Panevėžio g.;12;4;5522;30
